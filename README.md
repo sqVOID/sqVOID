@@ -1,6 +1,8 @@
 ## Status
 
-![Lloyd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqVOID&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sqVOID&show_icons=true&theme=radical" alt="Lloyd's GitHub Stats" />
+</p>
 
 <!--
 **sqVOID/sqVOID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
